@@ -123,3 +123,44 @@ background: rgba(5, 151, 160, 0.15);
     padding-top: 20px;
     
   }
+  .sell{
+    margin-top: 100px;
+    display: flex;
+justify-content: space-between;
+align-items: center;
+    width: 1032px;
+    height: 200px;
+    margin-left: 162px;
+    padding-top: 50px;
+
+    /* border: 1px red solid; */
+    
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+  }
+  .icon1{
+    
+    margin-left: 150px;
+    padding-left: 20px
+    
+  }.icon1{
+    margin-right: ;
+    margin-left: 130px;
+    margin-top: 
+  }.icon3{
+    margin-right:20px ;
+    margin-left: 0px;
+    margin-top: 
+  }
+  .j{
+    padding-top: 20px;
+    width: 300px;
+    height: 55px;
+    color: #4e4d4d;
+
+  }
+  .sign{
+    width: 300px;;
+    height: 500px;
+    border: 2px,red,solid;
+  }
