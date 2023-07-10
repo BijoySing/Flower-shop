@@ -1,43 +1,120 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
-}
-.main{
-display: flex;
-justify-content: space-around;
-align-items: center;
-background-color: rgba(229, 84, 115, 0.10);;
-}
-#text{
-    color: #272727;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: 40px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
+    font-family: lato;
 
 }
-.details{
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    margin: 0px;
+}
+
+#text {
+    color: #272727;
+    font-family: lato;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+}
+
+.details {
     padding-left: 50px;
 }
-.btn1
-{
-border-radius: 5px;
-background: #E55473;
-padding: 10px 20px;
-color: #FFF;
-border: none;
+
+.btn1 {
+    border-radius: 5px;
+    background: #E55473;
+    padding: 10px 20px;
+    color: #FFF;
+    border: none;
+    font-size: 18x;
 
 }
-#pic1{
+
+#pic1 {
     width: 400px;
-    padding-top: 20px;    padding-right: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
 
 }
-#txt2{
-color: #272727;
-font-size: 14px;
-padding-top: 15px;
-padding-bottom: 15px;
+
+#txt2 {
+    color: #4e4d4d;
+    font-family: lato;
+    font-size: 14px;
+    padding-top: 25px;
+    padding-bottom: 20px;
 
 }
+
+#head1 {
+    /* margin: 20px; */
+    margin-bottom: 20px;
+    padding-top: 100px;
+    text-align: center;
+    color: #272727;
+    font-size: 25px;
+}
+
+#head2 {
+    /* margin: 20px; */
+    padding: 10px;
+    text-align: center;
+    
+    color: #4e4d4d;
+    padding-bottom: 40px;
+
+}
+
+.section {
+    background-color: white;
+ 
+}
+
+.flow1 {
+    width: 330px;
+    height: 380px;
+    /* border: 2px #d62929 solid; */
+    margin-left: 150px;
+    margin-right:25px ;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+.flow2 {
+    width: 330px;
+    height: 380px;
+    /* border: 2px #272727 solid; */
+    margin-right:25px ;
+
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+
+}.flow3 {
+    width: 330px;
+    height: 380px;
+    /* border: 2px #272727 solid; */
+    margin-right: 140px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+}
+
+.ful {
+    display: flex;
+    justify-content:center;
+    
+}
+.k {
+    width: 240px;
+   height: 308px;
+   padding-left: 40px;;
+   padding-top: 70px;
+
+  }
