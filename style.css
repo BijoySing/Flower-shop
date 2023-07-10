@@ -195,3 +195,42 @@ align-items: center;
  .box1{
   padding-left: 150px;
  }
+ .sub
+ {
+  margin-top: 100px;
+  margin-left: 154px;
+  width: 1042px;
+  height: 400px;
+   /* border:1px  # E55473 solid;  */
+   background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("Flower Asset/Rectangle\ 9.png");
+  background-size: contain;
+
+margin-bottom: 50px;
+ }
+ form {
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+input[type="email"]{
+font-size: 20px;
+padding: 15px;
+padding-right: 200px;
+border: none;
+border-radius: 5px;
+
+}
+.btn3{
+
+  border-radius: 5px;
+  background: #E55473;
+  padding: 10px 30px;
+  color: #FFF;
+  border: none;
+  font-size: 18x;
+  margin-left: 12px;
+}
